@@ -41,7 +41,7 @@ I'm a **Full-Stack Web Developer** and **Software Engineer** specializing in end
 |--------|-------|
 | 📦 **Total Projects** | 150+ |
 | 🔱 **Pull Requests** | 1,200+ |
-| 🤝 **Contributions ** | 1,100+ |
+| 🤝 Contributions  | 1,100+ |
 | 👥 **Collaborations** | 50+ |
 | 📚 **Repositories** | 85+ |
 
